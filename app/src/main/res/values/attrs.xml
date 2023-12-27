@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomViewfinderView">
+        <attr format="color" name="lineColor"/><!--扫描线的颜色-->
+        <attr format="color" name="cornerColor"/><!--四边角的颜色-->
+        <attr format="dimension" name="scanFrameWidth"/><!--扫描框的宽度-->
+        <attr format="dimension" name="scanFrameHeight"/><!--扫描框的高度-->
+    </declare-styleable>
+</resources>
